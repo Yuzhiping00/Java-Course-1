@@ -16,7 +16,7 @@ import static javafx.scene.text.Font.font;
 /**
  * This class is to use javaFX to draw a bar chart and display it to the user based on the information
  * user input
- * @Author:Zhiping Yu, student# 000822513
+ * @Author:Zhiping Yu
  * @Date: 2020-06-01
  */
 public class Diagram extends Application {
